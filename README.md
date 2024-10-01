@@ -8,6 +8,9 @@
 </div>
 
 
+### 설명
+간단한 로그인 창 구현과 회원가입 폼 제작, bcrypt를 사용하여 암호 hash, localStorage에 저장 후 회원가입시 Id,Eamil 중복 검증,
+
 ### 데모 GIF
 
 <img src="./assets/login-form-react.gif" alt="데모" width="600"/>
